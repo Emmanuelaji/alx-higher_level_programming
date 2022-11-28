@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-# This directory contains work on higher level language programing
+# This directory contains work on alx-higher_level_programming
