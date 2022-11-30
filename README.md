@@ -1,1 +1,1 @@
-# Solutions Python - if/else, loops, functions
+# This directory contains work on alx-higher_level_programming
